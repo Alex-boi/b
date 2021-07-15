@@ -1,0 +1,77 @@
+.my_nav_bar{
+    position: sticky;
+    top:0px;
+    z-index: 999;
+}
+#why{
+    font-size: 26px;
+}
+#videos{
+    text-align:center;
+    background-color:#FCE4EC; 
+}
+#photos{
+    text-align: center;
+    background-color:#E0F2F1;
+}
+#things{
+    text-align: center;
+    background-color:#004D40; 
+}
+#p{
+    height:300px;
+    width:500px;
+}
+#blue{
+    height:300px;
+    width:400px;
+}
+#yellow{
+    height:300px;
+    width:300px;
+}
+#white{
+    height:300px;
+    width:200px;
+}
+#story{
+    text-align: center;
+    background-color:#B388FF; 
+}
+#as{
+    color: black;
+}
+#w{
+    font-size:19;
+    color:black;
+}
+#books{
+    text-align:center;
+    background-color:#FFCCBC; 
+}
+#qeustion{
+    text-align:center;
+    background-color:#FFCC80; 
+}
+#contact{
+    text-align: center;
+    background-color:#FFF9C4; 
+}
+#apps{
+    text-align: center;
+    background-color: #A7FFEB;
+}
+#mynavbar{
+    background-color:#E3F2FD; 
+}
+#t{
+    color:black;
+}
+#text{
+    color:black;
+    font-style:oblique;
+}
+#home{
+    text-align: center;
+    background-color:#EDE7F6; 
+}
